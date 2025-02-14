@@ -5,7 +5,7 @@ Welcome to **Elevate AI**, an innovative mental health platform designed to prov
 ---
 
 ## 🏆 Hackathon Goals  
-We aim to showcase the power of AI in transforming mental health care, creating a scalable and impactful solution that reaches users globally. Let’s make mental wellness a priority for all! 🌈  
+We aim to showcase the power of AI in transforming mental health care to COMPLETELY eradicate depression, anixety, excessive self-doubt, overthinking..etc by creating a scalable and impactful solution that reaches users GLOABALLY and helps every suffering individual to live their BEST and HAPPY life fully and take care of their loved ones. Let’s make mental wellness a priority for all! 🌈  
 
 ---
 
